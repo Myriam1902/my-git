@@ -1,0 +1,29 @@
+section {
+    background-image: url(/b.jpg);
+    background-size: cover;
+    height: 600px;
+    z-index: 0;
+}
+
+.CB {
+    background-image: url(/do.png);
+    z-index: 55;
+    background-position: center;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+nav {
+    color: #4a9fb3;
+    background-color: #f88389;
+    height: 20%;
+    border-radius: 10px 20px;
+    border-color: #f88389;
+    border-style: solid;
+    border-width: 2px;
+}
